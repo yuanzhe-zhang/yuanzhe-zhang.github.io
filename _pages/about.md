@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now an associate professor at Institute of Automation, Chinese Academy of Sciences. I received my PhD from University of Chinese Academy of Sciences (UCAS) in 2016. My research interests are natural language processing, knowledge graphs and model interpretability.
+I am now a senior engineer at National Science Library, Chinese Academy of Sciences. I received my PhD from University of Chinese Academy of Sciences (UCAS) in 2016. My research interests are natural language processing, knowledge graphs and model interpretability.
 
 ## Research Interests
 
-Natural Language Processing, Knowledge Engneering, Interpretability of LLMs
+Natural Language Processing, Knowledge Engneering, Knowledge Discovery from Scientific Literature, Interpretability of LLMs
 
 ## Education
 
