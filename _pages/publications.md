@@ -9,10 +9,16 @@ author_profile: true
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+# 2025
+- Huanxuan Liao, Shizhu He, Yao Xu, Yuanzhe Zhang, Kang Liu, Jun Zhao. Neural-symbolic collaborative distillation: Advancing small language models for complex reasoning tasks. In Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(23): 24567-24575. (CCF-A)
+- Jian Liu; Kangyun Ning; Yisong Su; Wenjuan Han; Jinan Xu; Yuanzhe Zhang*. WTU-EVAL: A Whether-or-Not Tool Usage Evaluation Benchmark for Large Language Models. ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5. (CCF-B)
 
 # 2024
-
-- Zhao Yang, Yuanzhe Zhang, Pengfei Cao, Cao Liu, Jiansong Chen, Jun Zhao, and Kang Liu. 2024. Information bottleneck based knowledge selection for commonsense reasoning. Information Sciences, 660:120134.
+- Huanxuan Liao, Shizhu He, Yao Xu, Yuanzhe Zhang, Yanchao Hao, Shengping Liu, Kang Liu and Jun Zhao. From instance training to instruction learning: Task adapters generation from instructions. Advances in Neural Information Processing Systems, 2024, 37: 45552-45577. （CCF-A)- Yifan Wei, Xiaoyan Yu, Yixuan Weng, Huanhuan Ma, Yuanzhe Zhang*, Jun Zhao and Kang Liu. Does Knowledge Localization Hold True? Surprising Differences Between Entity and Relation Perspectives in Language Models. In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management. 2024: 4118-4122. (CCF-B)
+- Zhongtao Jiang, Yuanzhe Zhang, Kun Luo, Xiaowei Yuan, Jun Zhao, and Kang Liu. On the In-Context Generation of Language Models. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, Miami, Florida, USA: Association for Computational Linguistics, 2024. (CCF-B)
+- Zhao Yang, Yuanzhe Zhang, Pengfei Cao, Cao Liu, Jiansong Chen, Jun Zhao, and Kang Liu. 2024. Information bottleneck based knowledge selection for commonsense reasoning. Information Sciences, 660:120134. (CCF-B)
+- 张翔，何世柱，张元哲，刘康，赵军. 面向自然语言理解的语义表示方法综述[J]. 中文信息学报, 2024. (CCF计算领域高质量科技期刊T1)
+- 桂梁，徐遥，何世柱，张元哲，刘康，赵军. 基于动态邻居选择的知识图谱事实错误检测方法[J]. 山东大学学报, 2024.
 
 # 2023
 
