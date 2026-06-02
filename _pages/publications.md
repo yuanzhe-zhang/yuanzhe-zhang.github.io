@@ -9,9 +9,19 @@ author_profile: true
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+# 2026
+- Yuanzhe Zhang, Xun Zhao, Maodi Hu, Xi Sun, Donghuan Song, Zhixiong Zhang. 2026, Datasets for Scientific Literature Understanding: A Survey. In Findings of the Association for Computational Linguistics: ACL 2026 . (CCF-A)
+- Yang Li, Yajiao Wang, Yu Zhang, Yuanzhe Zhang, Maodi Hu, Mengting Zhang, Xi Sun, Hua Yue, Zhixiong Zhang. 2026. SudokuFill: A Multi-Agent Progressive Filling Framework for Document-Level Scientific Information Extraction. In Findings of the Association for Computational Linguistics: ACL 2026 . (CCF-A)
+- Zhiheng Zhang, Yuanzhe Zhang*, Bohan Yu, Daojian Zeng, Kang Liu, Jun Zhao*. 2026. Hetero-Designer: Automated Design of Multi-Agent Systems with Heterogeneous LLMs. In Proceedings of the Association for Computational Linguistics: ACL 2026 . (CCF-A)
+- Zhiheng Zhang, Yuanzhe Zhang*, Daojian Zeng, Kang Liu, and Jun Zhao*. 2026. Beware of the Woozle Effect: Exploring and Mitigating Hallucination Propagation in Multi-Agent Debate. IEEE Transactions on Audio, Speech and Language Processing, 34:2021–2032. (CCF-B)
+- 张元哲, 丁洁兰, 瞿子皓, 卢洪君, 彭文杰, 周吉彬, 胡懋地, 钱力, 张智雄. 2026. 化工领域AI4S科技文献知识底座构建. 数据分析与知识发现, 10(4):13–24.
+
 # 2025
-- Huanxuan Liao, Shizhu He, Yao Xu, Yuanzhe Zhang, Kang Liu, Jun Zhao. Neural-symbolic collaborative distillation: Advancing small language models for complex reasoning tasks. In Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(23): 24567-24575. (CCF-A)
+- Pengfei Cao, Yuanzhe Zhang, Chenxiang Zhang, Wei Chen, Yan Liu, Shuang Xu, Miao Xu, Wenqing Jin, Jinjie Xu, Dan Wang, Wei Wang, Xue Wang, Wen Wang, Yanping Ren, Jun Zhao, Rena Li, and Kang Liu. 2025. A Multimodal Depression Consultation Dataset of Speech and Text with HAMD-17 Assessments. _Scientific Data_, 12(1):1577.
+- Huanxuan Liao, Shizhu He, Yupu Hao, Xiang Li, Yuanzhe Zhang, Jun Zhao, and Kang Liu. 2025. SKIntern: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models. In Proceedings of the 31st International Conference on Computational Linguistics, pages 3203–3221, Abu Dhabi, UAE. Association for Computational Linguistics.(CCF-B)
+- Huanxuan Liao, Shizhu He, Yao Xu, Yuanzhe Zhang, Shengping Liu, Kang Liu, and Jun Zhao. 2025. Awakening Augmented Generation: Learning to Awaken Internal Knowledge of Large Language Models for Question Answering. In _Proceedings of the 31st International Conference on Computational Linguistics_, pages 1333–1352, Abu Dhabi, UAE. Association for Computational Linguistics. (CCF-B)
 - Jian Liu; Kangyun Ning; Yisong Su; Wenjuan Han; Jinan Xu; Yuanzhe Zhang*. WTU-EVAL: A Whether-or-Not Tool Usage Evaluation Benchmark for Large Language Models. ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5. (CCF-B)
+- Huanxuan Liao, Shizhu He, Yao Xu, Yuanzhe Zhang, Kang Liu, Jun Zhao. Neural-symbolic collaborative distillation: Advancing small language models for complex reasoning tasks. In Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(23): 24567-24575. (CCF-A)
 
 # 2024
 - Huanxuan Liao, Shizhu He, Yao Xu, Yuanzhe Zhang, Yanchao Hao, Shengping Liu, Kang Liu and Jun Zhao. From instance training to instruction learning: Task adapters generation from instructions. Advances in Neural Information Processing Systems, 2024, 37: 45552-45577. （CCF-A)- Yifan Wei, Xiaoyan Yu, Yixuan Weng, Huanhuan Ma, Yuanzhe Zhang*, Jun Zhao and Kang Liu. Does Knowledge Localization Hold True? Surprising Differences Between Entity and Relation Perspectives in Language Models. In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management. 2024: 4118-4122. (CCF-B)
