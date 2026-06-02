@@ -19,8 +19,9 @@ Natural Language Processing, Knowledge Engneering, Knowledge Discovery from Scie
 
 ## **Major projects**
 
-- Subject leader, National Key R&D Program of China (2022 - 2025)
 - Project leader, National Natural Science Foundation of China (2023 - 2026)
 - Project leader, Young Scientists Fund of National Natural Science Foundation of China (2020 - 2022)
+- Subject leader, National Key R&D Program of China (2022 - 2025)
+- Subject leader, The Strategic Priority Research Program of Chinese Academy of Sciences (2025 - 2026)
 - Project leader, Meituan: Research on interpretable methods for natural language processing（2022-2023）
 - Project leader, Tencent: Research on Reading Comprehension Methods in Complex Scenes (2020-2021)
